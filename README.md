@@ -10,7 +10,7 @@ I turn ideas into shipped products: clean interfaces, solid data models, and AI 
 
 ## Selected work
 
-**Legal Forum** — a full-stack discussion forum with authentication, posts, and a responsive interface, built with Next.js 14, React, TypeScript, Tailwind CSS, and Supabase.
+**Legal Forum** — the website for a Pakistani law firm, covering criminal, family, corporate, civil, property, and labor law with a free consultation enquiry flow. Built with Next.js 15, React, TypeScript, and Tailwind CSS.
 [Live site](https://legal-forum-website-complete.vercel.app)
 
 **Mac Store** — an e-commerce storefront built with Next.js, Tailwind CSS, and Supabase.
