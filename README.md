@@ -21,6 +21,7 @@ I turn ideas into shipped products: clean interfaces, solid data models, and AI 
 
 - Portfolio: [dev-portfolio-qtcxkt2fonb.qoder.website](https://dev-portfolio-qtcxkt2fonb.qoder.website)
 - LinkedIn: [muhammad-ubaid-ullah-khan](https://www.linkedin.com/in/muhammad-ubaid-ullah-khan-a5807136a/)
+- Instagram: [m_ubaid_ullah_khan](https://www.instagram.com/m_ubaid_ullah_khan/)
 - Email: [comrademad25@gmail.com](mailto:comrademad25@gmail.com)
 
 Open to remote frontend, full-stack, and AI engineering work.
