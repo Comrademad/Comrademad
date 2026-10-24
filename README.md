@@ -1,16 +1,26 @@
-## Hi there 👋
+# Muhammad Ubaid Ullah Khan
 
-<!--
-**Comrademad/Comrademad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & AI developer** building fast, accessible full-stack apps with React, Next.js, TypeScript, and Python. Based in Islamabad, Pakistan, working remotely.
 
-Here are some ideas to get you started:
+I turn ideas into shipped products: clean interfaces, solid data models, and AI where it genuinely helps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Python` · `Flask` · `OpenAI API` · `Git`
+
+## Selected work
+
+**Legal Forum** — a full-stack discussion forum with authentication, posts, and a responsive interface, built with Next.js 14, React, TypeScript, Tailwind CSS, and Supabase.
+[Live site](https://legal-forum-website-complete.vercel.app)
+
+**Mac Store** — an e-commerce storefront built with Next.js, Tailwind CSS, and Supabase.
+
+**Discord bot with persistent memory** — a Python bot built with discord.py and the OpenAI API, with a memory layer that carries context across conversations.
+
+## Links
+
+- Portfolio: [dev-portfolio-qtcxkt2fonb.qoder.website](https://dev-portfolio-qtcxkt2fonb.qoder.website)
+- LinkedIn: [muhammad-ubaid-ullah-khan](https://www.linkedin.com/in/muhammad-ubaid-ullah-khan-a5807136a/)
+- Email: [comrademad25@gmail.com](mailto:comrademad25@gmail.com)
+
+Open to remote frontend, full-stack, and AI engineering work.
